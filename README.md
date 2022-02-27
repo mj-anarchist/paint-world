@@ -27,4 +27,4 @@ docker run --name some-mysql-name -p 3306:3306 -e MYSQL_ROOT_PASSWORD=password -
 
 Simulator software for 2D graphics.
 - https://solar2d.com/
-- Download and install the above to run the applicatin present in ~*Painting*~ directory
+- Download and install the above to run the applicatin present in ***Painting*** directory
