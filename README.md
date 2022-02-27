@@ -1,5 +1,13 @@
 # paint-world
 ## Game simulator project - software engineering
+
+
+## Project Structure
+
+
+
+
+
 >
 ### Docker image for the mysql server with complete database.
 >
