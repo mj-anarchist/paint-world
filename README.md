@@ -1,5 +1,5 @@
-# paint-world
-## Game simulator project - software engineering
+# Paint World Mobile Application
+Game simulator project - software engineering
 
 
 ## Project Structure
