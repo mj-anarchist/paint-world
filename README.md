@@ -1,5 +1,5 @@
 # Paint World Mobile Application
-Game simulator project - software engineering
+An interactive playful application for children - software engineering course @ La Sapienza
 
 
 ## Project Structure
