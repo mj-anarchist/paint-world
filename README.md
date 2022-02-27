@@ -20,3 +20,4 @@ How to run the docker container?
 ```
 docker run --name some-mysql-name -p 3306:3306 -e MYSQL_ROOT_PASSWORD=password -d mysql_image_name:tag
 ```
+[!reference](https://github.com/bazzani/mysql-5.5-docker)
