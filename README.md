@@ -30,7 +30,7 @@ docker run --name some-mysql-name -p 3306:3306 -e MYSQL_ROOT_PASSWORD=password -
 
 
 >
-### Paint world application user stories
+### Paint world sprint planning 
 > https://docs.google.com/spreadsheets/d/1vwZyeXahJmSL6TOCS4kDRIFk0XPY_yCuXHgS21s3phI/
 >
 
